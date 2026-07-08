@@ -12,4 +12,4 @@ Ce projet explore l'impact de divers facteurs environnementaux et agronomiques s
 - **Visualisation :** Création de tableaux de bord interactifs permettant de visualiser la répartition du rendement par région et selon les types de fertilisants utilisés.
 
 ## 📊 Aperçu du Tableau de Bord
-
+[Aperçu du Tableau de Bord](tableau_de_bord.png)

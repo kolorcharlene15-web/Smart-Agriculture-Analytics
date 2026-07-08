@@ -13,3 +13,4 @@ Ce projet explore l'impact de divers facteurs environnementaux et agronomiques s
 
 ## 📊 Aperçu du Tableau de Bord
 [Aperçu du Tableau de Bord](tableau_de_bord.png)
+![Aperçu du Tableau de Bord](tableau_de_bord.png)
